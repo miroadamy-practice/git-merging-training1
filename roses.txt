@@ -1,5 +1,5 @@
-roses are red,
-violets are blue,
-all of my base
-are belong to you.
+roses are #ff0000
+violets are #0000ff
+all my base
+are belong to you
 
